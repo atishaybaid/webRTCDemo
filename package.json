@@ -18,7 +18,7 @@
     "@babel/preset-env": "^7.9.0",
     "coffee-script": "^1.12.7",
     "connect": "^3.7.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-healthcheck": "^0.1.0",
     "express.io": "^1.1.13",
     "nodemon": "^2.0.4",
